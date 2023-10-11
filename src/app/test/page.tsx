@@ -9,7 +9,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Click me
+          Click me bro
         </a>
       </div>
     </main>
